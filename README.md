@@ -21,9 +21,6 @@ This Python-based encryption tool encrypts and decrypts files using AES-256-like
    - Decrypt File
 3. Ensure the file and `secret.key` are in the same directory
 
-## Output
-![Output Screenshot](screenshot.png)
-
 ## Author
 Pranamya R  
 Internship Task-4 | BCA 3rd Sem  
